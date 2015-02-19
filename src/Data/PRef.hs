@@ -5,7 +5,7 @@
 
 -- |
 --  Module      : Data.PRef
---  Copyright   : Copyright (C) 2014 Christopher Chalmers
+--  Copyright   : Copyright (C) 2015 Christopher Chalmers
 --  License     : BSD3
 --
 --  Maintainer  : Christopher Chalmers <c.chalmers@me.com>
